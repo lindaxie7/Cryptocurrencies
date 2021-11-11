@@ -11,6 +11,8 @@ We have the cryptocurrency data, it is not ideal, so the data need to be process
 
 - 3D-Scatter with the PCA data and the cluster
 
+![2](https://user-images.githubusercontent.com/38533045/141230904-5863b827-4938-449d-9ac1-7371caede251.png)
+
 
 
 
