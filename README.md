@@ -18,4 +18,5 @@ We have the cryptocurrency data, it is not ideal, so the data need to be process
 
 - hvplot.scatter plot using x="TotalCoinsMined" and y="TotalCoinSupply"
 
+![3](https://user-images.githubusercontent.com/38533045/141231057-ad9e6d7a-6124-471c-8e52-662916083f6d.png)
 
