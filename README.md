@@ -5,19 +5,19 @@ We have the cryptocurrency data, it is not ideal, so the data need to be process
 
 ## Results
 
-- Clustering Crytocurrencies Using K-Means, Finding the Best Value for k Using the Elbow Curve:
+- Clustering Crytocurrencies Using K-Means, finding the Best Value for k Using the Elbow Curve:
 ![1](https://user-images.githubusercontent.com/38533045/141231190-b79e4982-d7c9-4acf-b466-4ff333992314.png)
 
 
 
-- 3D-Scatter with the PCA data and the cluster
+- 3D-Scatter with the PCA data and the cluster:
 
 ![2](https://user-images.githubusercontent.com/38533045/141230904-5863b827-4938-449d-9ac1-7371caede251.png)
 
 
 
 
-- hvplot.scatter plot using x="TotalCoinsMined" and y="TotalCoinSupply"
+- hvplot.scatter plot using x="TotalCoinsMined" and y="TotalCoinSupply":
 
 ![3](https://user-images.githubusercontent.com/38533045/141231057-ad9e6d7a-6124-471c-8e52-662916083f6d.png)
 
