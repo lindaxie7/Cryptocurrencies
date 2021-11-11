@@ -6,6 +6,7 @@ We have the cryptocurrency data, it is not ideal, so the data need to be process
 ## Results
 
 - Clustering Crytocurrencies Using K-Means, Finding the Best Value for k Using the Elbow Curve:
+![1](https://user-images.githubusercontent.com/38533045/141230791-da0174c8-424d-4029-a2d9-7faeeca621f9.png)
 
 
 - 3D-Scatter with the PCA data and the cluster
